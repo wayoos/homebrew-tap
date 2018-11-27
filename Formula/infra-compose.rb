@@ -1,9 +1,9 @@
 class InfraCompose < Formula
   desc "Define and run multi-infrastructure tools."
   homepage "https://github.com/wayoos/infra-compose"
-  url "https://github.com/wayoos/infra-compose/releases/download/v0.2.1/infra-compose-darwin-amd64.tar.gz"
-  version "0.2.1"
-  sha256 "ead28eb2cc87d379d43bc2c6ceaa9fb3898158c8cbd4db6efe5b1dcefc37ee3a"
+  url "https://github.com/wayoos/infra-compose/releases/download/v0.2.2/infra-compose-darwin-amd64.tar.gz"
+  version "0.2.2"
+  sha256 "3a28f12ffbe0837c6fec0538f95252798bcd4a71ccf02f0e872534ec3b5ee6c2"
 
   def install
     bin.install "infra-compose"
